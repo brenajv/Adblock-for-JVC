@@ -1,1 +1,0 @@
-# Adblock-for-JVC

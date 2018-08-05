@@ -1,0 +1,12 @@
+||autopromo.jeuxvideo.com^
+||acceptable.jeuxvideo.com^
+www.jeuxvideo.com##.playerFooterContainer__2PZ-pn
+www.jeuxvideo.com##.container__ukiKsn
+www.jeuxvideo.com##.promotionalFooterLayout__37Nq2m
+www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
+www.jeuxvideo.com###forum-right-col > [href^="http://www.wootbox.fr/"]
+www.jeuxvideo.com###video-footer
+www.jeuxvideo.com##.mobile-apps
+www.jeuxvideo.com##.highlight
+www.jeuxvideo.com##li.jv-nav-lvl1-item:nth-of-type(6) > .nav-link.xXx
+www.jeuxvideo.com##.gameCharacteristicsMain__affiliateBlock
