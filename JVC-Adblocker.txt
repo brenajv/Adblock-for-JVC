@@ -12,3 +12,5 @@ www.jeuxvideo.com##.mobile-apps
 www.jeuxvideo.com##.highlight
 www.jeuxvideo.com##li.jv-nav-lvl1-item:nth-of-type(6) > .nav-link.xXx
 www.jeuxvideo.com##.gameCharacteristicsMain__affiliateBlock
+www.jeuxvideo.com##.sideGameAffiliate.sideModule
+www.jeuxvideo.com##.sideWootbox--isDisplayed.sideWootbox
