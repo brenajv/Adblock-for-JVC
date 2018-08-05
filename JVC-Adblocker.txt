@@ -1,3 +1,4 @@
+! Title: JVC-Adblocker
 ||autopromo.jeuxvideo.com^
 ||acceptable.jeuxvideo.com^
 www.jeuxvideo.com##.playerFooterContainer__2PZ-pn
