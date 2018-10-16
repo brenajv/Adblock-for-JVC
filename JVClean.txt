@@ -5,7 +5,7 @@ www.jeuxvideo.com##.playerFooterContainer__2PZ-pn
 www.jeuxvideo.com##.container__ukiKsn
 www.jeuxvideo.com##.promotionalFooterLayout__37Nq2m
 www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
-www.jeuxvideo.com###forum-right-col > [href^="http://www.wootbox.fr/"]
+www.jeuxvideo.com###forum-right-col > [href]
 www.jeuxvideo.com##.col-right > [href^="http://www.wootbox.fr/"]
 www.jeuxvideo.com###video-footer
 www.jeuxvideo.com##.video-footer-container
@@ -15,3 +15,4 @@ www.jeuxvideo.com##li.jv-nav-lvl1-item:nth-of-type(6) > .nav-link.xXx
 www.jeuxvideo.com##.gameCharacteristicsMain__affiliateBlock
 www.jeuxvideo.com##.sideGameAffiliate.sideModule
 www.jeuxvideo.com##.sideWootbox--isDisplayed.sideWootbox
+www.jeuxvideo.com##.social-networks
