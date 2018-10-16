@@ -6,7 +6,7 @@ www.jeuxvideo.com##.container__ukiKsn
 www.jeuxvideo.com##.promotionalFooterLayout__37Nq2m
 www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
 www.jeuxvideo.com###forum-right-col > [href]
-www.jeuxvideo.com##.col-right > [href^="http://www.wootbox.fr/"]
+www.jeuxvideo.com##.col-right > [href]
 www.jeuxvideo.com###video-footer
 www.jeuxvideo.com##.video-footer-container
 www.jeuxvideo.com##.mobile-apps
