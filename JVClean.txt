@@ -1,18 +1,23 @@
 ! Title: JVClean
 ||autopromo.jeuxvideo.com^
 ||acceptable.jeuxvideo.com^
-www.jeuxvideo.com##.playerFooterContainer__2PZ-pn
-www.jeuxvideo.com##.container__ukiKsn
-www.jeuxvideo.com##.promotionalFooterLayout__37Nq2m
-www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
-www.jeuxvideo.com###forum-right-col > [href]
-www.jeuxvideo.com##.col-right > [href]
-www.jeuxvideo.com###video-footer
-www.jeuxvideo.com##.video-footer-container
-www.jeuxvideo.com##.mobile-apps
-www.jeuxvideo.com##.highlight
-www.jeuxvideo.com##li.jv-nav-lvl1-item:nth-of-type(6) > .nav-link.xXx
-www.jeuxvideo.com##.gameCharacteristicsMain__affiliateBlock
-www.jeuxvideo.com##.sideGameAffiliate.sideModule
-www.jeuxvideo.com##.sideWootbox--isDisplayed.sideWootbox
+||wootbox.fr^
+||wearefans.com^
+www.jeuxvideo.com##.socialIcon
 www.jeuxvideo.com##.social-networks
+www.jeuxvideo.com##.mobile-apps
+www.jeuxvideo.com##.video-footer-container
+www.jeuxvideo.com##.store
+www.jeuxvideo.com###jv-footer > .highlight
+www.jeuxvideo.com##.sideWootbox
+www.jeuxvideo.com##.sideGameAffiliate.sideModule
+www.jeuxvideo.com###facebookWidgetWrapper
+www.jeuxvideo.com##.reseaux-sociaux
+www.jeuxvideo.com###affli-ligne-blocs
+www.jeuxvideo.com##.titre-affli-ligne-text.xXx
+www.jeuxvideo.com##a[href^="https://www.wootbox.fr/"]
+www.jeuxvideo.com##.gameAffiliate
+www.jeuxvideo.com##.nav-link-extra[href]
+www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
+www.jeuxvideo.com##footer
+##a[href^="https://www.wearefans.com/"]
