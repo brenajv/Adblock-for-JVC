@@ -20,4 +20,5 @@ www.jeuxvideo.com##.gameAffiliate
 www.jeuxvideo.com##.nav-link-extra[href]
 www.jeuxvideo.com##.sideColumnWrapper.container__2AbtzX
 www.jeuxvideo.com##footer
+www.jeuxvideo.com##.colorThemeG
 ##a[href^="https://www.wearefans.com/"]
